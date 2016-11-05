@@ -1,0 +1,24 @@
+{
+  "name": "csf",
+  "version": "1.0.0",
+  "description": "Welcome to LaraWebEd! - A CMS build on Laravel ===================",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyphan2502/LaraWebEd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duyphan2502/LaraWebEd/issues"
+  },
+  "homepage": "https://github.com/duyphan2502/LaraWebEd#readme"
+}
